@@ -1,6 +1,6 @@
 {
   "name": "jsPlumb",
-  "version": "2.2.3",
+  "version":"2.2.3",
   "ignore": [
     "node_modules",
     "Gruntfile.js",

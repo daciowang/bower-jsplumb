@@ -1,6 +1,6 @@
 {
   "name": "bower-jsplumb",
-  "version": "2.2.3",
+  "version":"2.2.3",
   "description": "visual connectivity for webapps",
   "main": "index.js",
   "scripts": {
