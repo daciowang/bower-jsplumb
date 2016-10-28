@@ -1,5 +1,5 @@
 {
-  "name": "jsPlumb",
+  "name": "jsplumb",
   "version":"2.2.3",
   "ignore": [
     "node_modules",

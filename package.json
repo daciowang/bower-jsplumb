@@ -1,5 +1,5 @@
 {
-  "name": "bower-jsplumb",
+  "name": "jsplumb",
   "version":"2.2.3",
   "description": "visual connectivity for webapps",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jsplumb/bower-jsplumb.git"
+    "url": "https://github.com/jsplumb/jsPlumb.git"
   },
   "author": "jsPlumb <hello@jsplumbtoolkit.com> (https://jsplumbtoolkit.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jsplumb/bower-jsplumb/issues"
+    "url": "https://github.com/jsplumb/jsPlumb/issues"
   },
-  "homepage": "https://github.com/jsplumb/bower-jsplumb#readme",
+  "homepage": "https://github.com/jsplumb/jsPlumb#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-cli": "^1.2.0"
