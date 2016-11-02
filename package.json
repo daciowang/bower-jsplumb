@@ -1,6 +1,6 @@
 {
   "name": "jsplumb",
-  "version":"2.2.4",
+  "version":"2.2.5",
   "description": "visual connectivity for webapps",
   "main": "index.js",
   "scripts": {
